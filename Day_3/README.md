@@ -21,8 +21,3 @@ Problems Solved
 8. Password Strength Checker
 9. Movie Ticket Booking
 10. University Scholarship
-
-- Practiced nested if statements.
-- Solved interview-oriented Python scenarios.
-
-#Python #100DaysOfCode #PythonPractice #ConditionalStatements #Programming
